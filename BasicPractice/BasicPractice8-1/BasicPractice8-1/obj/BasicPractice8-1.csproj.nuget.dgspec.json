@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kay\\Desktop\\C#\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj": {}
+    "C:\\Users\\Kay\\Desktop\\CCoursePracticeInCSharp\\BasicPractice\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kay\\Desktop\\C#\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj": {
+    "C:\\Users\\Kay\\Desktop\\CCoursePracticeInCSharp\\BasicPractice\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kay\\Desktop\\C#\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj",
+        "projectUniqueName": "C:\\Users\\Kay\\Desktop\\CCoursePracticeInCSharp\\BasicPractice\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj",
         "projectName": "BasicPractice8-1",
-        "projectPath": "C:\\Users\\Kay\\Desktop\\C#\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj",
+        "projectPath": "C:\\Users\\Kay\\Desktop\\CCoursePracticeInCSharp\\BasicPractice\\BasicPractice8-1\\BasicPractice8-1\\BasicPractice8-1.csproj",
         "packagesPath": "C:\\Users\\Kay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kay\\Desktop\\C#\\BasicPractice8-1\\BasicPractice8-1\\obj\\",
+        "outputPath": "C:\\Users\\Kay\\Desktop\\CCoursePracticeInCSharp\\BasicPractice\\BasicPractice8-1\\BasicPractice8-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kay\\AppData\\Roaming\\NuGet\\NuGet.Config"
