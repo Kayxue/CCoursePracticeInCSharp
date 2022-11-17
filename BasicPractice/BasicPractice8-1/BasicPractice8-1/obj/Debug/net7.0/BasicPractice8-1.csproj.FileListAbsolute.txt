@@ -1,0 +1,15 @@
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\bin\Debug\net7.0\BasicPractice8-1.exe
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\bin\Debug\net7.0\BasicPractice8-1.deps.json
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\bin\Debug\net7.0\BasicPractice8-1.runtimeconfig.json
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\bin\Debug\net7.0\BasicPractice8-1.dll
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\bin\Debug\net7.0\BasicPractice8-1.pdb
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.csproj.AssemblyReference.cache
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.AssemblyInfoInputs.cache
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.AssemblyInfo.cs
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.dll
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\refint\BasicPractice8-1.dll
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.pdb
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\BasicPractice8-1.genruntimeconfig.cache
+C:\Users\Kay\Desktop\C#\BasicPractice8-1\BasicPractice8-1\obj\Debug\net7.0\ref\BasicPractice8-1.dll
