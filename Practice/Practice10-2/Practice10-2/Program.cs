@@ -2,7 +2,7 @@
 
 unsafe void strangeFunc(int[] a)
 {
-    fixed (int* p1 = a, q2 = &a[a.Length - 1])
+    fixed (int* p1 = a, q2 = &a[^1])
     {
         int* p = p1;
         int* q = q2;
