@@ -58,5 +58,5 @@ Input a date (year/month/day): 2015/2/29
 2015/2/29 is not a valid date.
 
 Input a date (year/month/day): 777/3/6
-777/3/6 is a valid date.
+777/3/6 is a valid date
 ```
