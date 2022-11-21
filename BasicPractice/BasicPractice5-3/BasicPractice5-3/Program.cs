@@ -4,7 +4,7 @@ bool isPrime(int n)
 {
     for (int i = 2; Math.Pow(i, 2) <= n; i++)
     {
-        if (n%i==0)
+        if (n % i == 0)
         {
             return false;
         }
