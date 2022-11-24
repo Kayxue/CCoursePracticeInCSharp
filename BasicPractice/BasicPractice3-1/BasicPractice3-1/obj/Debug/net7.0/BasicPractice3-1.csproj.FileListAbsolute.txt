@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\bin\Debug\net7.0\BasicPractice3-1.exe
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\bin\Debug\net7.0\BasicPractice3-1.deps.json
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\bin\Debug\net7.0\BasicPractice3-1.runtimeconfig.json
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\bin\Debug\net7.0\BasicPractice3-1.dll
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\bin\Debug\net7.0\BasicPractice3-1.pdb
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.AssemblyInfo.cs
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.dll
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\refint\BasicPractice3-1.dll
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.pdb
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\BasicPractice3-1.genruntimeconfig.cache
+C:\Users\User\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice3-1\BasicPractice3-1\obj\Debug\net7.0\ref\BasicPractice3-1.dll
