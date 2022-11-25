@@ -1,0 +1,15 @@
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\bin\Debug\net7.0\Practice11-1.exe
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\bin\Debug\net7.0\Practice11-1.deps.json
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\bin\Debug\net7.0\Practice11-1.runtimeconfig.json
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\bin\Debug\net7.0\Practice11-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\bin\Debug\net7.0\Practice11-1.pdb
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.csproj.AssemblyReference.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.AssemblyInfoInputs.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.AssemblyInfo.cs
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\refint\Practice11-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.pdb
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\Practice11-1.genruntimeconfig.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\Practice\Practice11-1\Practice11-1\obj\Debug\net7.0\ref\Practice11-1.dll
