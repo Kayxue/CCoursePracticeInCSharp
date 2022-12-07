@@ -1,0 +1,15 @@
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\bin\Debug\net7.0\BasicPractice10-1.exe
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\bin\Debug\net7.0\BasicPractice10-1.deps.json
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\bin\Debug\net7.0\BasicPractice10-1.runtimeconfig.json
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\bin\Debug\net7.0\BasicPractice10-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\bin\Debug\net7.0\BasicPractice10-1.pdb
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.csproj.AssemblyReference.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.AssemblyInfoInputs.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.AssemblyInfo.cs
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\refint\BasicPractice10-1.dll
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.pdb
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\BasicPractice10-1.genruntimeconfig.cache
+C:\Users\Kay\Desktop\CCoursePracticeInCSharp\BasicPractice\BasicPractice10-1\BasicPractice10-1\obj\Debug\net7.0\ref\BasicPractice10-1.dll
